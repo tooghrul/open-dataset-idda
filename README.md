@@ -23,11 +23,6 @@ The goal of this project is to transform raw, publicly available data into **cle
 - **Metric:** Revenue generated from passenger transportation  
 - **Comparison Type:** Year-over-year change  
 
-This dataset enables analysis of how passenger transport revenue evolves annually, making it useful for:
-- Identifying growth or decline trends  
-- Understanding economic or mobility-related shifts  
-- Supporting data-driven discussions on transport policy and infrastructure  
-
 ---
 
 ## Project Goals
@@ -46,18 +41,13 @@ The repository includes visualizations such as:
 - Comparative views highlighting year-over-year changes  
 - Clear labeling and scaling to avoid misleading interpretations  
 
-Each visualization is designed with **clarity over complexity** as the main principle.
-
 ---
 
 ## Tools & Technologies
 
-Depending on the implementation, the project may use:
-- Python (pandas, matplotlib / seaborn)  
+- Python (pandas, numpy, matplotlib / seaborn)  
 - Jupyter Notebook  
 - CSV or similar open data formats  
-
-The focus is not on flashy tooling, but on **correct data handling and honest visualization**.
 
 ---
 
