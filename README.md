@@ -72,17 +72,5 @@ Analyzing its year-over-year change provides more insight than raw values alone,
 
 ---
 
-## Future Improvements
-
-Potential extensions of this project include:
-- Interactive visualizations  
-- Comparison with other transportation subsectors  
-- Correlation with external factors such as population, fuel prices, or policy changes  
-
----
-
-## License
-
-This project uses open data provided by IDDA and is intended for **educational and analytical purposes**.
 
 
